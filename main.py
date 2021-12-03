@@ -4,7 +4,7 @@ plugins = dict(
         root="plugins"
     )
 bot = Client(
-    "  ImagesUploaderRoBot",
+    "ImagesUploaderRoBot",
     bot_token = my.BOT_TOKEN,
     api_id = my.API_ID,
     api_hash = my.API_HASH,
